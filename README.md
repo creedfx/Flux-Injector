@@ -1,3 +1,5 @@
+<img width="1750" height="800" alt="Flux Injector Cover" src="https://github.com/user-attachments/assets/076687c8-3c6c-4059-9af0-27495e3aecd0" />
+
 # 💉 Flux Injector
 
 > ⚡ A high-performance, stealth-focused DLL injection utility.
