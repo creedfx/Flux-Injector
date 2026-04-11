@@ -1,4 +1,4 @@
-<img width="1750" height="800" alt="Flux Injector Cover" src="https://github.com/user-attachments/assets/076687c8-3c6c-4059-9af0-27495e3aecd0" />
+<img width="1500" height="800" alt="Flux Injector Cover" src="https://github.com/user-attachments/assets/64fea60c-f64a-43fc-8fb7-5da681248373" />
 
 # 💉 Flux Injector
 
